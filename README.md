@@ -6,4 +6,4 @@ If you actually want to try it out, download the latest release, unzip the file,
 
 `java -jar PDFCombiner-<version>.jar`
 
-Requires Java 12 or newer. 
+(or just double-click it). Requires Java 12 or newer. 
